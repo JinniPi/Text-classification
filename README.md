@@ -1,0 +1,3 @@
+# Text-classification
+Text classification algorithm use naive bayes
+This is my first project ......
